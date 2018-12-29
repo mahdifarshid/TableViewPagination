@@ -23,6 +23,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         getDataFromServer(1)
+        currentpage = currentpage + 1
         // Do any additional setup after loading the view, typically from a nib.
     }
 
