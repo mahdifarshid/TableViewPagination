@@ -1,2 +1,2 @@
 # TableViewPagination
-this is tableview with pagination you can develope this sourse code and connect this app to serverside and paginate it
+this is tableview with pagination if you have a lot of data you must use pagination
