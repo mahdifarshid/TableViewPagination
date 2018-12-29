@@ -9,7 +9,7 @@ import UIKit
 extension ViewController: UITableViewDelegate, UITableViewDataSource {
 
     public func tableView(_ tableView: UITableView, willDisplay cell: UITableViewCell, forRowAt indexPath: IndexPath) {
-        let numOfPerPage = 10
+        let numOfPerPage = 20
         let page = ((indexPath.row + 1) / numOfPerPage) + 1
         if ((indexPath.row + 1) % numOfPerPage) == 0 {
             print("row \(indexPath.row)")
