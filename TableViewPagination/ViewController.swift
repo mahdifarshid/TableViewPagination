@@ -16,7 +16,7 @@ class Model {
 }
 
 class ViewController: UIViewController {
-    var currentpage = 0
+    var currentpage = 1
     @IBOutlet weak var tableView: UITableView!
     var array = Array<Model>()
 
