@@ -36,7 +36,7 @@ This application is tableview with pagination if you have a lot of data you must
 
  ** OUTPUT of Project **
  
-![marty-mcfly](https://github.com/mahdifarshid/TableViewPagination/blob/master/screenshot.png)
+ ![Alt Text](https://github.com/mahdifarshid/TableViewPagination/blob/master/output.gif)
 
  ** MYSQL DATABASE **
  
