@@ -15,7 +15,8 @@ This application is tableview with pagination if you have a lot of data you must
 ## Prerequisites
 
 - have a macintosh
-- basic knoledge swift
+- basic knowledge swift
+- basic knowledge JSON
 - basic knowledge PHP
 - basic knowledge MYSQL DataBase
 - knowledge tableview
