@@ -36,4 +36,5 @@ This application is tableview with pagination if you have a lot of data you must
 
 
 ![marty-mcfly](https://github.com/mahdifarshid/TableViewPagination/blob/master/screenshot.png)
-
+![marty-mcfly](https://github.com/mahdifarshid/TableViewPagination/blob/master/Screen%20Shot%202018-12-30%20at%203.22.02%20PM.png)
+![marty-mcfly](https://github.com/mahdifarshid/TableViewPagination/blob/master/Screen%20Shot%202018-12-30%20at%203.25.22%20PM.png)
