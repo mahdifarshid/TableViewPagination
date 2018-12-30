@@ -31,7 +31,8 @@ This application is tableview with pagination if you have a lot of data you must
  4. copy "pagination.php" to your localhost
  5. get your local ip with ifconfig command in macos & linux  or ipconfig Command with ipconfig in windows and replace your local ip to "ViewController.swift" (URL variable)
  6. Test API using PostMan software or in your Browser
- 
+ 7. Run your project
+  
  ## ScreenShots
 
  ** OUTPUT of Project **
