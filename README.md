@@ -32,9 +32,17 @@ This application is tableview with pagination if you have a lot of data you must
  5. get your local ip with ifconfig command in macos & linux  or ipconfig Command with ipconfig in windows and replace your local ip to "ViewController.swift" (URL variable)
  6. Test API using PostMan software or in your Browser
  
- ## ScreenShot
+ ## ScreenShots
 
-
+ ** OUTPUT of Project **
+ 
 ![marty-mcfly](https://github.com/mahdifarshid/TableViewPagination/blob/master/screenshot.png)
+
+ ** MYSQL DATABASE **
+ 
 ![marty-mcfly](https://github.com/mahdifarshid/TableViewPagination/blob/master/Screen%20Shot%202018-12-30%20at%203.22.02%20PM.png)
+
+ ** POSTMAN For Test API **
+ 
 ![marty-mcfly](https://github.com/mahdifarshid/TableViewPagination/blob/master/Screen%20Shot%202018-12-30%20at%203.25.22%20PM.png)
+
