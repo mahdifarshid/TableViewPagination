@@ -24,14 +24,14 @@ if (isset($_GET["page"])) {
     $sql->bindValue(':offset',$offset , PDO::PARAM_INT);
     $sql->bindValue(':page',$itemPerPage , PDO::PARAM_INT);
     $sql->execute();
-    $row = $sql->fetchAll();
+    $row = $sql->fetchAll(PDO::FETCH_ASSOC);
     echo json_encode($row);
 } else {
     $sql = $pdo->prepare("select * from paginationsample limit :offset , :page");
     $sql->bindValue(':offset',0 , PDO::PARAM_INT);
     $sql->bindValue(':page',20 , PDO::PARAM_INT);
     $sql->execute();
-    $row = $sql->fetchAll();
+    $row = $sql->fetchAll(PDO::FETCH_ASSOC);
     echo json_encode($row);
 }
 
