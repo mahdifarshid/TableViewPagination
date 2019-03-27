@@ -45,7 +45,5 @@ This application is tableview with pagination if you have a lot of data you must
 
  ** POSTMAN For Test API **
  
-![marty-mcfly](https://github.com/mahdifarshid/AlamofireInThreeLayer/blob/master/Screen%20Shot%202019-03-27%20at%2014.07.53.png)
 
-![marty-mcfly](https://github.com/mahdifarshid/AlamofireInThreeLayer/blob/master/Screen%20Shot%202019-03-27%20at%2014.07.57.png)
 
